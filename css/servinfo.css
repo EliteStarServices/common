@@ -1,0 +1,25 @@
+/* servinfo.css v1.0 */
+
+hr {width:900px; background-color:#ccc; border:0; height:1px; margin:  15px 15px;}
+td, #th {border: 1px solid #666; font-size:75%; vertical-align:baseline; padding: 4px 4px;}
+
+a:link {color:#009; text-decoration:none;}
+a:hover {text-decoration: underline;}
+
+.panel-navbar > .panel-heading { 
+background-image:none !important;
+background-color:#48649F !important;
+}
+
+.si-heading {
+    color:#FFF;
+    background-color:#428BCA;
+    border-color:#428BCA;
+}
+
+.button-link {
+    margin-top:0;
+    margin-bottom:0;
+    font-size:16px;
+    color:#fafafa !important;
+    }

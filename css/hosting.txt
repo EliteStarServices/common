@@ -1,0 +1,6 @@
+CSS Files that referance or include Fonts cannot be Remotely Hosted,
+Cross Site Scripting Rules Prevent the Fonts from Loading...
+
+These Files must be loaded from a CDN, local copies are for referance.
+bootstrap.css - v3.4.1 local copy
+font-awesome.css = v4.7.0 local copy
