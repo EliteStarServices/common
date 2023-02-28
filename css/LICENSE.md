@@ -1,5 +1,5 @@
 MIT License\
-Applies to CSS File Folder
+Applies to CSS Folder
 
 Copyright (c) 2023 Elite Star Services
 
