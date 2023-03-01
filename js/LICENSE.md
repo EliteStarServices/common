@@ -1,5 +1,5 @@
-MIT License\
-Applies to CSS Folder
+MIT License Applies to JS Folder\
+Individual Files may have Additional License Requirements
 
 Copyright (c) 2023 Elite Star Services
 
