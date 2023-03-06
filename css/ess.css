@@ -444,7 +444,7 @@ color:#FFFFFF;
 
 .si-page-title {
 	font-size:18px;
-	color:#dce7ff;
+	color:#dce7ff !important;
 }
 
 .bh-page-title {
