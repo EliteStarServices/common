@@ -1,3 +1,3 @@
 ## Common
 Common Assets Project\
-See individual folders for license information<hr>
+See individual folders for license information<br>&nbsp;<br>
