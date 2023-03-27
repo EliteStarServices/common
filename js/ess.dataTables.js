@@ -32,8 +32,11 @@ $(document).ready(function(){
       "searching": false
     } );
 
+    $('#serv_info').DataTable( {
+        "iDisplayLength": 25
+    } );
+
     $('#fleet_public').DataTable();
-    $('#serv_info').DataTable();
     $('#pilots_public').DataTable();
     $('#routes_public').DataTable();
     $('#tours').DataTable();
